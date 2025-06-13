@@ -59,7 +59,6 @@ python main.py
 | Direction | Key     |
 | --------- | ------- |
 | Up        | ↑ Arrow |
-| Down      | ↓ Arrow |
 | Left      | ← Arrow |
 | Right     | → Arrow |
 
