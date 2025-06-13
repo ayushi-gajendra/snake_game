@@ -2,9 +2,6 @@
 
 # 🐍 Snake Game in Python
 
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
 A simple, classic Snake game built using Python’s `turtle` module. Guide the snake using arrow keys and eat food to grow — avoid crashing into walls (extendable) or yourself.
 
 ---
